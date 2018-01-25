@@ -11,6 +11,6 @@ Also see this repository for a Praxinoscope: https://github.com/golanlevin/Praxi
 
 ![Zoetrope toy](images/zoetrope-toy.jpg "Zoetrope")
 
-![Animated GIF example 1](images/zoetrope-1.gif "Zoetrope example 1")
+![Animated GIF example 1](images/zoetrope-2.gif "Zoetrope example 1")
 
-![Animated GIF example 2](images/zoetrope-2.gif "Zoetrope example 2")
+![Animated GIF example 2](images/zoetrope-1.gif "Zoetrope example 2")
