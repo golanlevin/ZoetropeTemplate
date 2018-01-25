@@ -24,7 +24,7 @@ boolean bExportFrameImages = false;
 
 //-------------------------------------------------------
 void setup() {
-  size(1224, 200); // 17x11" at 72DPI
+  size(1224, 792); // 17x11" at 72DPI
   frameRate(15);
   smooth();
 } 
